@@ -21,6 +21,13 @@ test0("m")
 test0("s")
 
 
+
+
+# 
+# http://adv-r.had.co.nz/OO-essentials.html
+# 
+
+
 # 
 # 
 # S3 objects
